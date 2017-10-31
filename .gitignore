@@ -1,0 +1,14 @@
+.vscode/
+.idea/
+node_modules/
+lib/
+dist/
+src/**/*.js
+*.js
+*.map
+.build/
+tryouts/
+.DS_Store
+.tscache
+.settings
+npm-debug.log
